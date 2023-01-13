@@ -1,5 +1,5 @@
 # change the followings to match your Github username and repo name
-baseurl: "/Spectrazzz1.github.io" # the name of your github repo
+baseurl: "/" # the name of your github repo
 url: "https://spectrazzz1.github.io" # the url of your github pages
 
 # site information used in page title, meta data etc.
